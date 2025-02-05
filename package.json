@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "url-shorterner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karankose/URL-shorterner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karankose/URL-shorterner/issues"
+  },
+  "homepage": "https://github.com/karankose/URL-shorterner#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.7",
+    "nanoid": "^5.0.9",
+    "nodemon": "^3.1.9"
+  }
+}
